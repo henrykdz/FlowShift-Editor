@@ -2,7 +2,7 @@
 
 [![Status](https://img.shields.io/badge/status-early%20access--private-blue)]()
 [![Preview](https://img.shields.io/badge/preview-Q3%202026-orange)]()
-[![Java](https://img.shields.io/badge/Java-23-blue?logo=java)]()
+[![Java](https://img.shields.io/badge/Java-26-blue?logo=java)]()
 [![License](https://img.shields.io/badge/license-Commercial-red)]()
 
 ---
@@ -68,7 +68,7 @@
 
 | Component | Technology |
 |-----------|------------|
-| Java | JavaSE-23 (Zulu) + JavaFX |
+| Java | JavaSE-26 (Zulu) + JavaFX 25 |
 | Build | Apache Maven |
 | Markdown | Flexmark-Java v0.64.8 |
 | Rich Text | RichTextFX v0.11.7 |
