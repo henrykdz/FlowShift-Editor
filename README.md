@@ -1,4 +1,4 @@
-# FlowShift · DTP-Engine & Document Forge
+# FlowShift · DTP-Engine & CSS Design Forge
 
 [![Status](https://img.shields.io/badge/status-early%20access--private-blue)]()
 [![Preview](https://img.shields.io/badge/preview-Q3%202026-orange)]()
@@ -40,7 +40,7 @@
 | **Flicker‑free live rendering** | Real-time preview via `Sovereign Swap` |
 | **Auto-Focus Navigation** | Click in preview → jump to source |
 | **Diagnostic Linter** | Real-time structural validation |
-| **CSS Forge** | Live styling in the document flow |
+| **CSS Design Forge** | Live styling in the document flow |
 | **1:1 Precision Slicer** | 3.78 px/mm geometry for pixel-perfect output |
 | **Smart Formatter** | One-click Auto-Fix for Markdown, HTML, CSS |
 | **Custom Placeholders** | YAML-based data injection |
