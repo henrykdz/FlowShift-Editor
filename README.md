@@ -1,4 +1,4 @@
-# FlowShift - Hybrid Document & Web Forge
+# FlowShift - DTP-Engine & Design Forge
 
 <div>
     <div style="display: inline-block; width: 49%; text-align: right;">
