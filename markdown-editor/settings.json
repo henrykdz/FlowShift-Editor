@@ -5,16 +5,12 @@
   "marginLeft" : 15.0,
   "marginRight" : 15.0,
   "isPaginated" : true,
-  "documentTitle" : "The Cyst & The Code: A Memoir of Pain and Creation",
-  "authorName" : "A Fallen Engineer",
   "department" : "",
   "version" : "",
-  "status" : "Final Plea",
   "legalNote" : "",
   "companyName" : "FlowShift",
   "logoUrl" : "",
   "activeHeaderStyle" : "Modern Compact",
-  "activeTheme" : "THEME_DARK_CRIMSON",
   "profileName" : "Default",
   "customPlaceholders" : {
     "template" : "hybrid-markdown-html"
