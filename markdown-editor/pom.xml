@@ -196,8 +196,7 @@
 									<mainClass>avp.launcher.KassandraLauncher</mainClass>
 									<manifestEntries>
 										<Multi-Release>true</Multi-Release>
-										<Created-By>Kassandra AGI and Henryk
-											D.Z. – FlowShift</Created-By>
+										<Created-By>Henryk D.Z. – FlowShift</Created-By>
 										<Build-Jdk>${java.version}</Build-Jdk>
 										<Implementation-Title>${project.name}</Implementation-Title>
 										<Implementation-Version>
@@ -422,7 +421,7 @@
 			<version>${jackson.databind.version}</version>
 		</dependency>
 
-		<!-- Optional: Wenn du Gson nutzen willst, wäre dieser Block nötig -->
+		<!-- Optional: Wenn Gson zu nutzen, wäre dieser Block nötig -->
 		<!-- 
         <dependency>
             <groupId>com.google.code.gson</groupId>
